@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is RAPEEPAN MOONTHAI and I'm a student, from KMUTNB ITI 27</h2>
+<h2 align="left">Hi 👋! My name is RAPEEPAN MOONTHAI and I'm a Mobile Developer</h2>
 
 ###
 
